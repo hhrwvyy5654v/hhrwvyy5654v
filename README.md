@@ -11,25 +11,32 @@
  * https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5
 -->
 
+<div align="center">
 <!-- dynamic typing effect 动态打字效果 -->
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Welcome to my github homepage!;Aloof wishes you a happy life today!&center=true&size=22" alt="Typing SVG" />
 </div>
+
 
 <!-- knock code pictures 敲代码的动图 -->
 <div align="center">
 <img src="./assets/coding.gif"/><br>
 </div>
 
+
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <div align="center">
 <img src="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" height="200px"/>
 </div
 
+
+
 # 🙋 Hello
 
 <table>
 <tr><td>
+
+
 
 <!-- About me 关于我 -->
 ### 🤺 About Me
@@ -140,6 +147,8 @@
 <img src="./assets/icon.png" />
 </div>
 
+
+</div>
 <!--
 ## About me
 
