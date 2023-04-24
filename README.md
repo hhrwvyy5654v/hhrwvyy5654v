@@ -134,7 +134,7 @@
 
 <!-- GitHub 奖杯🏆 -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hhrwvyy5654v&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" height="130px"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hhrwvyy5654v&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" height="140px"/>
 </div>
 
 
@@ -146,7 +146,8 @@
 <table>
   <tr>
     <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/6ab537eb-0c82-449f-9258-63d581971450.svg" width="410" alt="Languages"/> &emsp;
-    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/f98103f4-cf5f-4bb1-963f-6f951c6a1a4c.svg" width="410" alt="Editors"/> 
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/f98103f4-cf5f-4bb1-963f-6f951c6a1a4c.svg" width="410"
+    alt="Editors"/> 
   </tr> 
   <br><br>
   <tr>
