@@ -168,7 +168,6 @@
 
 <div align="center">
   <img src="./assets/icon.png" />
-  <img src="./assets/rocket.png"/>
 </div>
 
 <!--
