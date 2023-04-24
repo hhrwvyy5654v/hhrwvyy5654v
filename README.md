@@ -29,16 +29,6 @@
 </div>
 
 
-
-
-
-
-# 🙋 Hello
-
-
-
-
-
 <table>
 <tr><td>
 <!-- About me 关于我 -->
@@ -136,9 +126,9 @@
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
-<img width="150" src="./assets/left.png" />&emsp;
+<img width="175" src="./assets/left.png" />&emsp;
 <img align="center" width="500" height="500" src="https://github-readme-streak-stats.herokuapp.com/?user=hhrwvyy5654v&theme=dark&hide_border=true" />&emsp;
-<img width="150" src="./assets/right.png"/>
+<img width="175" src="./assets/right.png"/>
 </div>
 
 <div align="center">
@@ -159,7 +149,7 @@
 <!--
 ## About me
 
-&emsp; Hi everyone, I'm aloof, currently working on becoming a Java and Go developer.
+&emsp; 🙋 Hi everyone, I'm aloof, currently working on becoming a Java and Go developer.
 
 <div align="center">
 Aloof's github visitor counts<br>
