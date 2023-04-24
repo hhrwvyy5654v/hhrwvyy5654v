@@ -116,17 +116,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=hhrwvyy5654v&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" height="125px" alt="GitHub 奖杯🏆"/>
 </div>
 
-
-<!-- Wakatime Graph-->
-
 <table>
   <img width="200%" src="./assets/hr.gif" />
 </table>
-<table>
-  <div align="center">
-    <font size=4 align="left">The following is my Coding Activity being counted by WakaTime.</font>
-  </div>
-</table>
+
+<!-- Wakatime Graph-->
+##  👏 My Coding Activity being counted by WakaTime
+
 <table>
   <tr>
     <div align="center">
