@@ -103,22 +103,20 @@
   <tr>
     <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/f98103f4-cf5f-4bb1-963f-6f951c6a1a4c.svg" width= "600" alt="Editors"/>
   </tr> 
-  <tr>   
-    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/289eea3d-151c-461f-bd59-5a49cfcdb629.svg" width="600" alt="Categories"/>
+  <tr>
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/21099ae5-83b1-497d-a0fe-a7ebd5e01a88.svg" width="600" alt="Operating Systems"/>   
   </tr>
   <tr> 
-    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/21099ae5-83b1-497d-a0fe-a7ebd5e01a88.svg" width="600" alt="Operating Systems"/>
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/289eea3d-151c-461f-bd59-5a49cfcdb629.svg" width="600" alt="Categories"/>
   </tr>
 </table>
 </div>
 <img width="200%" src="./assets/hr.gif" />
 
-
 <div align="center">
 <!-- run 图片 -->
 <img src="./assets/man_run.png" alt="Man Running" width="250" height="250" />
 </div>
-
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
@@ -127,23 +125,19 @@
 <img width="150" src="./assets/right.png"/>
 </div>
 
-
 <div align="center">
 <img width="36%" src="./assets/githubgif.gif" />
 </div>
-
 
 <!-- just img 图片 -->
 <div align="center">
 <img src="./assets/rocket.png"/>
 </div>
 
-
 <!-- just img 图片 -->
 <div align="center">
 <img src="./assets/icon.png" />
 </div>
-
 
 </div>
 <!--
@@ -155,7 +149,6 @@
 Aloof's github visitor counts<br>
 <img src="https://profile-counter.glitch.me/hhrwvyy5654v/count.svg"/>
 </div>
-
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhrwvyy5654v&layout=compact&theme=dark&role=OWNER,COLLABORATOR" alt="Top Langs" height="200px"/>
