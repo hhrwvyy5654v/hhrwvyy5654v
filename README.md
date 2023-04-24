@@ -32,7 +32,7 @@
 <table>
 <tr><td>
 
-### 🤺 About Me   <!--关于我-->
+# 🤺 About Me   <!--关于我-->
 <p>&emsp;&emsp;Hi everyone, I'm Aloof.</p>
 <p>&emsp;&emsp;Currently studying at Shenzhen University of Technology, majoring in computer science and technology.</p>
 <p>&emsp;&emsp;Now that I have chosen this major, I am motivated to become a senior engineer!</p>
@@ -43,19 +43,23 @@
 <tr><td>
 
 
-### 🏢 Work Experience
+# 🏢 Study & Work Experience
 
 <img align="right" width="250" src="./assets/hi.gif" />
+
+- [Shenzhen University of Technology](https://www.sztu.edu.cn/) &emsp; 📌 2020-09-17 —— now
+
+  - College: School of Big Data and Internet
+  - Major: Computer Science and Technology
+
+<br>
 
 - [Shenzhen Urban Public Safety Technology Research Institute](https://www.szsti.org/#/) &emsp; 📌 in progress
 
   - Job: Intern at R&D Center (Academician Office)
   - work content: Participated in the project of "UAV Close-range Photogrammetry Monitoring Landslide Deformation"
 
-<!-- - [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-15
-
-  - 工作岗位：Web前端开发实习生
-  - 工作方向：一站式数据治理与开发 -->
+<br>
 
 </td></tr>
 
@@ -63,10 +67,10 @@
 <div align="center">
 
 <!-- just img 图片 -->
-<img src="./assets/man.png" alt="Man Lifting Weights" width="250" height="250" />
+<img src="./assets/man.png" alt="Man Lifting Weights" width="450" height="450" />
 
 <!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="./profile-snake-contrib/profile-night-rainbow.svg" />
 </div>
 
 <!--  skill badge 技能徽章 -->
@@ -90,6 +94,8 @@
 </div>
 
 
+<br>
+<br>
 
 <!-- GitHub 奖杯🏆 -->
 <div align="center">
@@ -99,24 +105,27 @@
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <div align="center">
-[![Aloof's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hhrwvyy5654v&bg_color=transparent&color=7fa1f7&line=f4a460&point=fa8072&area=true&hide_border=true)](https://github.com/hhrwvyy5654v)
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=hhrwvyy5654v&bg_color=transparent&color=7fa1f7&line=f4a460&point=fa8072&area=true&hide_border=true" />
 </div>
+
+
+
 
 
 <!-- Wakatime Graph-->
 <div align="center">
 <table>
+  <img width="200%" src="./assets/hr.gif" />
+</table>
+<table>
   <tr>
-    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/6ab537eb-0c82-449f-9258-63d581971450.svg" width= "600" alt="Languages"/> <br>
-  </tr>
-  <tr>
-    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/f98103f4-cf5f-4bb1-963f-6f951c6a1a4c.svg" width= "600" alt="Editors"/> <br>
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/6ab537eb-0c82-449f-9258-63d581971450.svg" width= "600" alt="Languages"/> &emsp;
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/f98103f4-cf5f-4bb1-963f-6f951c6a1a4c.svg" width= "600" alt="Editors"/> 
   </tr> 
+  <br><br>
   <tr>
-    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/21099ae5-83b1-497d-a0fe-a7ebd5e01a88.svg" width="600" alt="Operating Systems"/> <br>  
-  </tr>
-  <tr> 
-    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/289eea3d-151c-461f-bd59-5a49cfcdb629.svg" width="600" alt="Categories"/> <br>
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/289eea3d-151c-461f-bd59-5a49cfcdb629.svg" width="600" alt="Categories"/> &emsp;
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/21099ae5-83b1-497d-a0fe-a7ebd5e01a88.svg" width="600" alt="Operating Systems"/>
   </tr>
 </table>
 </div>
