@@ -93,7 +93,7 @@
 
 <!-- GitHub 奖杯🏆 -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hhrwvyy5654v&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" height="180px"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hhrwvyy5654v&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" height="150px"/>
 </div>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
