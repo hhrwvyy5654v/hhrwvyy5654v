@@ -143,7 +143,7 @@
   <img width="200%" src="./assets/hr.gif" />
 </table>
 <table>
-  <font size=4.5 align="left">The following is my Coding Activity being counted by WakaTime.</font>
+  <font size=5 align="left">The following is my Coding Activity being counted by WakaTime.</font>
 </table>
 <table>
   <tr>
