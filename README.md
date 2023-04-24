@@ -10,33 +10,43 @@
  * reference article: GitHub 配置文件自述文件
  * https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5
 -->
+<div align="center">
+  <div align="center">
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Welcome to my github homepage!;Aloof wishes you a happy life today!&center=true&size=22" alt="Typing SVG" />
+  </div>
 
-<div align="center">
-<!-- dynamic typing effect 动态打字效果 -->
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Welcome to my github homepage!;Aloof wishes you a happy life today!&center=true&size=22" alt="Typing SVG" />
+  <!-- knock code pictures 敲代码的动图 -->
+  <div align="center">
+  <img src="./assets/coding.gif"/><br>
+  </div>
+
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <div align="center">
+  <img src="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" height="200px"/>
+  </div>
 </div>
 
-<!-- knock code pictures 敲代码的动图 -->
-<div align="center">
-<img src="./assets/coding.gif"/><br>
-</div>
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<div align="center">
-<img src="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" height="200px"/>
-</div
+
+
+
 
 # 🙋 Hello
 
+
+
+
+
 <table>
 <tr><td>
-
 <!-- About me 关于我 -->
 
 ### 🤺 About Me
 
 <img align="right" width="250" src="./assets/hi.gif" />
+
 <p>&emsp;&emsp;Hi everyone, I'm Aloof.</p>
 <p>&emsp;&emsp;Currently studying at Shenzhen University of Technology, majoring in computer science and technology.</p>
 <p>&emsp;&emsp;Now that I have chosen this major, I am motivated to become a senior engineer!</p>
@@ -44,8 +54,7 @@
 <p>&emsp;&emsp;My motto is to follow the trend and avoid disadvantages.</p>
 </td></tr>
 
-<tr>
-<td>
+<tr><td>
 
 ### 🏢 Work Experience
 
@@ -55,6 +64,13 @@
 
   - Job: Intern at R&D Center (Academician Office)
   - work content: Participated in the project of "UAV Close-range Photogrammetry Monitoring Landslide Deformation"
+
+<!-- - [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-15
+
+  - 工作岗位：Web前端开发实习生
+  - 工作方向：一站式数据治理与开发 -->
+
+</td></tr>
 
 <img width="200%" src="./assets/hr.gif" />
 <div align="center">
@@ -98,16 +114,16 @@
 <div align="center">
 <table>
   <tr>
-    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/6ab537eb-0c82-449f-9258-63d581971450.svg" width= "600" alt="Languages"/>
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/6ab537eb-0c82-449f-9258-63d581971450.svg" width= "600" alt="Languages"/> <br>
   </tr>
   <tr>
-    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/f98103f4-cf5f-4bb1-963f-6f951c6a1a4c.svg" width= "600" alt="Editors"/>
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/f98103f4-cf5f-4bb1-963f-6f951c6a1a4c.svg" width= "600" alt="Editors"/> <br>
   </tr> 
   <tr>
-    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/21099ae5-83b1-497d-a0fe-a7ebd5e01a88.svg" width="600" alt="Operating Systems"/>   
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/21099ae5-83b1-497d-a0fe-a7ebd5e01a88.svg" width="600" alt="Operating Systems"/> <br>  
   </tr>
   <tr> 
-    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/289eea3d-151c-461f-bd59-5a49cfcdb629.svg" width="600" alt="Categories"/>
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/289eea3d-151c-461f-bd59-5a49cfcdb629.svg" width="600" alt="Categories"/> <br>
   </tr>
 </table>
 </div>
@@ -121,7 +137,7 @@
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
 <img width="150" src="./assets/left.png" />&emsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hhrwvyy5654v&theme=dark&hide_border=true" />&emsp;
+<img align="center" width="400" height="400" src="https://github-readme-streak-stats.herokuapp.com/?user=hhrwvyy5654v&theme=dark&hide_border=true" />&emsp;
 <img width="150" src="./assets/right.png"/>
 </div>
 
