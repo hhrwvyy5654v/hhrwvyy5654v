@@ -80,6 +80,7 @@
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
 
 🧠 Plan deep learning
+
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
@@ -112,24 +113,21 @@
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+<img height="100" width="100" src="./assets/html.webp">
+<img height="100" width="100" src="./assets/cssgif.webp">
+<img height="100" width="100" src="./assets/vscode.webp">
+<img height="100" width="100" src="./assets/react.webp">
+<img height="95" width="95" src="./assets/vue.webp">
+<img height="100" width="100" src="./assets/python.webp">
+<img height="100" width="100" src="./assets/js.webp">
+<img height="100" width="100" src="./assets/github.webp">
 
-
-<br>
 <br>
 
 <!-- GitHub 奖杯🏆 -->
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=hhrwvyy5654v&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" height="150px"/>
 </div>
-
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <div align="center">
