@@ -150,7 +150,7 @@
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
   <img width="150" src="./assets/left.png" />&emsp;
-  <img align="center" width="500" height="500" src="https://github-readme-streak-stats.herokuapp.com/?user=hhrwvyy5654v&theme=dark&hide_border=true" />&emsp;
+  <img align="center" width="400" height="400" src="https://github-readme-streak-stats.herokuapp.com/?user=hhrwvyy5654v&theme=dark&hide_border=true" />&emsp;
   <img width="150" src="./assets/right.png"/>
 </div>
 
