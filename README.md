@@ -183,7 +183,6 @@
   <img height="95" width="95" src="./assets/vue.webp">
   <img height="100" width="100" src="./assets/python.webp">
   <img height="100" width="100" src="./assets/js.webp">
-  <img height="100" width="100" src="./assets/github.webp">
 </div>
 
 <div align="center">
