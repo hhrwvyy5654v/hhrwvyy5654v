@@ -122,12 +122,9 @@
 <img height="100" width="100" src="./assets/js.webp">
 <img height="100" width="100" src="./assets/github.webp">
 
+
 <br>
 
-<!-- GitHub 奖杯🏆 -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hhrwvyy5654v&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" height="150px"/>
-</div>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <div align="center">
@@ -135,7 +132,10 @@
 </div>
 
 
-
+<!-- GitHub 奖杯🏆 -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hhrwvyy5654v&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" height="130px"/>
+</div>
 
 
 <!-- Wakatime Graph-->
