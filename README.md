@@ -98,7 +98,9 @@
 
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
+<div align="center">
 [![Aloof's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hhrwvyy5654v&bg_color=transparent&color=7fa1f7&line=f4a460&point=fa8072&area=true&hide_border=true)](https://github.com/hhrwvyy5654v)
+</div>
 
 
 <!-- Wakatime Graph-->
@@ -127,9 +129,9 @@
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
-<img width="160" src="./assets/left.png" />&emsp;
+<img width="150" src="./assets/left.png" />&emsp;
 <img align="center" width="500" height="500" src="https://github-readme-streak-stats.herokuapp.com/?user=hhrwvyy5654v&theme=dark&hide_border=true" />&emsp;
-<img width="160" src="./assets/right.png"/>
+<img width="150" src="./assets/right.png"/>
 </div>
 
 <div align="center">
