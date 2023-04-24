@@ -169,23 +169,3 @@
 <div align="center">
   <img src="./assets/icon.png" />
 </div>
-
-<!--
-## About me
-
-&emsp; 🙋 Hi everyone, I'm aloof, currently working on becoming a Java and Go developer.
-
-
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hhrwvyy5654v&count_private=true&show_icons=true&theme=dark&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Aloof's GitHub stats" height="200px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhrwvyy5654v&layout=compact&theme=dark&role=OWNER,COLLABORATOR" alt="Top Langs" height="200px"/>
-</div>
--->
-<!-- <img width="200%" src="./assets/hr.gif" />
-
-<div align="center">
-  <img width="150" src="./assets/left.png" />&emsp;
-  <img align="center" width="400" height="400" src="https://github-readme-streak-stats.herokuapp.com/?user=hhrwvyy5654v&theme=dark&hide_border=true" alt="连续提交代码天数记录"/>&emsp;
-  <img width="150" src="./assets/right.png"/>
-</div> -->
