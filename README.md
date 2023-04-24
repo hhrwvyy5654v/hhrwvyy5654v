@@ -96,8 +96,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=hhrwvyy5654v&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" height="150px"/>
 </div>
 
-<!-- GitHub Activity Graph GitHub 活动图 -->
 
+<!-- GitHub Activity Graph GitHub 活动图 -->
 [![Aloof's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hhrwvyy5654v&bg_color=transparent&color=7fa1f7&line=f4a460&point=fa8072&area=true&hide_border=true)](https://github.com/hhrwvyy5654v)
 
 <!-- Wakatime Graph-->
