@@ -144,18 +144,19 @@
 </table>
 <table>
   <tr>
-    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/6ab537eb-0c82-449f-9258-63d581971450.svg" width="410" alt="Languages"/> &emsp;
-    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/f98103f4-cf5f-4bb1-963f-6f951c6a1a4c.svg" width="410"
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/6ab537eb-0c82-449f-9258-63d581971450.svg" width="420" alt="Languages"/> &ensp;
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/f98103f4-cf5f-4bb1-963f-6f951c6a1a4c.svg" width="420"
     alt="Editors"/> 
   </tr> 
-  <br><br>
+  <br>
   <tr>
-    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/289eea3d-151c-461f-bd59-5a49cfcdb629.svg" width="410" alt="Categories"/> &emsp;
-    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/21099ae5-83b1-497d-a0fe-a7ebd5e01a88.svg" width="410" alt="Operating Systems"/>
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/289eea3d-151c-461f-bd59-5a49cfcdb629.svg" width="420" alt="Categories"/> &ensp;
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/21099ae5-83b1-497d-a0fe-a7ebd5e01a88.svg" width="420" alt="Operating Systems"/>
   </tr>
 </table>
 </div>
 <img width="200%" src="./assets/hr.gif" />
+
 
 <div align="center">
 <!-- run 图片 -->
