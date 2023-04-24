@@ -49,7 +49,7 @@
 
 - [Shenzhen University of Technology](https://www.sztu.edu.cn/) &emsp; 📌 2020-09-17 —— now
 
-  - College: School of Big Data and Internet
+  - College: [School of Big Data and Internet](https://bdi.sztu.edu.cn/)
   - Major: Computer Science and Technology
 
 <br>
@@ -119,13 +119,13 @@
 </table>
 <table>
   <tr>
-    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/6ab537eb-0c82-449f-9258-63d581971450.svg" width="400" alt="Languages"/> &emsp;
-    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/f98103f4-cf5f-4bb1-963f-6f951c6a1a4c.svg" width="400" alt="Editors"/> 
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/6ab537eb-0c82-449f-9258-63d581971450.svg" width="450" alt="Languages"/> &emsp;
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/f98103f4-cf5f-4bb1-963f-6f951c6a1a4c.svg" width="450" alt="Editors"/> 
   </tr> 
   <br><br>
   <tr>
-    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/289eea3d-151c-461f-bd59-5a49cfcdb629.svg" width="400" alt="Categories"/> &emsp;
-    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/21099ae5-83b1-497d-a0fe-a7ebd5e01a88.svg" width="400" alt="Operating Systems"/>
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/289eea3d-151c-461f-bd59-5a49cfcdb629.svg" width="450" alt="Categories"/> &emsp;
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/21099ae5-83b1-497d-a0fe-a7ebd5e01a88.svg" width="450" alt="Operating Systems"/>
   </tr>
 </table>
 </div>
