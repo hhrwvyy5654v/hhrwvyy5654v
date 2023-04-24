@@ -17,28 +17,23 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Welcome to my github homepage!;Aloof wishes you a happy life today!&center=true&size=22" alt="Typing SVG" />
 </div>
 
-
 <!-- knock code pictures 敲代码的动图 -->
 <div align="center">
 <img src="./assets/coding.gif"/><br>
 </div>
-
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <div align="center">
 <img src="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" height="200px"/>
 </div
 
-
-
 # 🙋 Hello
 
 <table>
 <tr><td>
 
-
-
 <!-- About me 关于我 -->
+
 ### 🤺 About Me
 
 <img align="right" width="250" src="./assets/hi.gif" />
@@ -77,9 +72,7 @@
 
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
 
-
 🧠 Plan deep learning
-
 
 🧰 Commonly used tools
 
@@ -91,7 +84,6 @@
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 
 </div>
-
 
 <!-- GitHub 奖杯🏆 -->
 <div align="center">
@@ -105,23 +97,25 @@
 <!-- Wakatime Graph-->
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/6ab537eb-0c82-449f-9258-63d581971450.svg" width= "600" alt="Languages"/></td>
-    <td><img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/f98103f4-cf5f-4bb1-963f-6f951c6a1a4c.svg" width= "600" alt="Editors"/></td>
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/f98103f4-cf5f-4bb1-963f-6f951c6a1a4c.svg" width= "600" alt="Editors"/>
   </tr>
+  <tr>
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/6ab537eb-0c82-449f-9258-63d581971450.svg" width= "600" alt="Languages"/>
+  </tr> 
   <tr>   
-    <td><img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/289eea3d-151c-461f-bd59-5a49cfcdb629.svg" width="600" alt="Categories"/></td>
-    <td><img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/21099ae5-83b1-497d-a0fe-a7ebd5e01a88.svg" width="600" alt="Operating Systems"/></td>
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/289eea3d-151c-461f-bd59-5a49cfcdb629.svg" width="600" alt="Categories"/>
+  </tr>
+  <tr> 
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/21099ae5-83b1-497d-a0fe-a7ebd5e01a88.svg" width="600" alt="Operating Systems"/>
   </tr>
 </table>
 
 <img width="200%" src="./assets/hr.gif" />
 
-
 <div align="center">
 <!-- run 图片 -->
 <img src="./assets/man_run.png" alt="Man Running" width="250" height="250" />
 </div>
-
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
@@ -130,30 +124,25 @@
 <img width="250" src="./assets/right.png"/>
 </div>
 
-
 <div align="center">
 <img width="36%" src="./assets/githubgif.gif" />
 </div>
-
 
 <!-- just img 图片 -->
 <div align="center">
 <img src="./assets/rocket.png"/>
 </div>
 
-
 <!-- just img 图片 -->
 <div align="center">
 <img src="./assets/icon.png" />
 </div>
-
 
 </div>
 <!--
 ## About me
 
 &emsp; Hi everyone, I'm aloof, currently working on becoming a Java and Go developer.
-
 
 <div align="center">
 Aloof's github visitor counts<br>
