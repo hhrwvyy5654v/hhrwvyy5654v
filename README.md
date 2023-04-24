@@ -31,12 +31,8 @@
 
 <table>
 <tr><td>
-<!-- About me 关于我 -->
 
-### 🤺 About Me
-
-<img align="right" width="250" src="./assets/hi.gif" />
-
+### 🤺 About Me   <!--关于我-->
 <p>&emsp;&emsp;Hi everyone, I'm Aloof.</p>
 <p>&emsp;&emsp;Currently studying at Shenzhen University of Technology, majoring in computer science and technology.</p>
 <p>&emsp;&emsp;Now that I have chosen this major, I am motivated to become a senior engineer!</p>
@@ -45,6 +41,7 @@
 </td></tr>
 
 <tr><td>
+
 
 ### 🏢 Work Experience
 
@@ -73,7 +70,7 @@
 </div>
 
 <!--  skill badge 技能徽章 -->
-
+<div align="center">
 💪 Currently learning
 
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
@@ -89,7 +86,10 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 
+
 </div>
+
+
 
 <!-- GitHub 奖杯🏆 -->
 <div align="center">
