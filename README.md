@@ -94,14 +94,14 @@
 
 [![Aloof's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hhrwvyy5654v&bg_color=transparent&color=7fa1f7&line=f4a460&point=fa8072&area=true&hide_border=true)](https://github.com/hhrwvyy5654v)
 
-<div align="center">
 <!-- Wakatime Graph-->
+<div align="center">
 <table>
   <tr>
-    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/f98103f4-cf5f-4bb1-963f-6f951c6a1a4c.svg" width= "600" alt="Editors"/>
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/6ab537eb-0c82-449f-9258-63d581971450.svg" width= "600" alt="Languages"/>
   </tr>
   <tr>
-    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/6ab537eb-0c82-449f-9258-63d581971450.svg" width= "600" alt="Languages"/>
+    <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/f98103f4-cf5f-4bb1-963f-6f951c6a1a4c.svg" width= "600" alt="Editors"/>
   </tr> 
   <tr>   
     <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/289eea3d-151c-461f-bd59-5a49cfcdb629.svg" width="600" alt="Categories"/>
@@ -113,10 +113,12 @@
 </div>
 <img width="200%" src="./assets/hr.gif" />
 
+
 <div align="center">
 <!-- run 图片 -->
 <img src="./assets/man_run.png" alt="Man Running" width="250" height="250" />
 </div>
+
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
@@ -154,8 +156,8 @@ Aloof's github visitor counts<br>
 <img src="https://profile-counter.glitch.me/hhrwvyy5654v/count.svg"/>
 </div>
 
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhrwvyy5654v&layout=compact&theme=dark&role=OWNER,COLLABORATOR" alt="Top Langs" height="200px"/>
 <img src="https://github-readme-stats.vercel.app/api?username=hhrwvyy5654v&count_private=true&show_icons=true&theme=dark&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Aloof's GitHub stats" height="200px"/>
 </div>
--->
