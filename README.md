@@ -33,15 +33,14 @@
 <tr><td>
 
 # 🤺 About Me   <!--关于我-->
-<p>&emsp;&emsp;Hi everyone, I'm Aloof.</p>
-<p>&emsp;&emsp;Currently studying at Shenzhen University of Technology, majoring in computer science and technology.</p>
-<p>&emsp;&emsp;Now that I have chosen this major, I am motivated to become a senior engineer!</p>
-<p>&emsp;&emsp;After trying many directions, I currently want to be a Java and Go language developer.</p>
-<p>&emsp;&emsp;My motto is to follow the trend and avoid disadvantages.</p>
+<p>&emsp;&emsp;<font size=3.5>Hi everyone, I'm Aloof.</font></p>
+<p>&emsp;&emsp;<font size=3.5>Currently studying at Shenzhen University of Technology, majoring in computer science and technology.</font></p>
+<p>&emsp;&emsp;<font size=3.5>Now that I have chosen this major, I am motivated to become a senior engineer!</font></p>
+<p>&emsp;&emsp;<font size=3.5>After trying many directions, I currently want to be a Java and Go language developer.</font></p>
+<p>&emsp;&emsp;<font size=3.5>My motto is to follow the trend and avoid disadvantages.</font></p>
 </td></tr>
 
 <tr><td>
-
 
 # 🏢 Study & Work Experience
 
