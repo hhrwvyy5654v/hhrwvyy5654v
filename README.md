@@ -94,6 +94,7 @@
 
 [![Aloof's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hhrwvyy5654v&bg_color=transparent&color=7fa1f7&line=f4a460&point=fa8072&area=true&hide_border=true)](https://github.com/hhrwvyy5654v)
 
+<div align="center">
 <!-- Wakatime Graph-->
 <table>
   <tr>
@@ -109,7 +110,7 @@
     <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/21099ae5-83b1-497d-a0fe-a7ebd5e01a88.svg" width="600" alt="Operating Systems"/>
   </tr>
 </table>
-
+</div>
 <img width="200%" src="./assets/hr.gif" />
 
 <div align="center">
@@ -124,19 +125,23 @@
 <img width="250" src="./assets/right.png"/>
 </div>
 
+
 <div align="center">
 <img width="36%" src="./assets/githubgif.gif" />
 </div>
+
 
 <!-- just img 图片 -->
 <div align="center">
 <img src="./assets/rocket.png"/>
 </div>
 
+
 <!-- just img 图片 -->
 <div align="center">
 <img src="./assets/icon.png" />
 </div>
+
 
 </div>
 <!--
