@@ -61,8 +61,6 @@
 <br>
 
 </td></tr>
-
-<img width="200%" src="./assets/hr.gif" />
 <div align="center">
 
 <!-- just img 图片 -->
