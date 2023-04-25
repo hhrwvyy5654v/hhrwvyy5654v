@@ -1,9 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  # 通过 schedule 事件，可以在计划的时间触发工作流。
-  schedule: # 在每天 5:30 和 17:30 UTC 触发工作流程
-    - cron: '30 5,17 * * *'
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -18,8 +17,8 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name hhrwvyy5654v-actions
+          git config user.email huang_rongquan@outlook.com
           git add -A .
           git commit -m "generated"
           git push
