@@ -14,7 +14,7 @@
   <div align="center">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Welcome to my github homepage!;Aloof wishes you a happy life today!&center=true&size=22" alt="动态打字效果"/>
   </div>
-  <div align="center">
+  <div align="center" width="500" height="300">
   <img src="./assets/avento.gif" alt="敲代码&冲浪动图"/><br>
   </div>
   <div align="center">
