@@ -32,7 +32,7 @@
 
 ## 🤺 About Me <!--关于我-->
 
-<img align="right" width="200" src="./assets/man_run.png" />
+<img align="right" width="250" src="./assets/hi.gif" />
 <p>&emsp;&emsp;<font size=3.5>Hi everyone, I'm Aloof.</font></p>
 <p>&emsp;&emsp;<font size=3.5>Currently studying at Shenzhen University of Technology, majoring in computer science and technology.</font></p>
 <p>&emsp;&emsp;<font size=3.5>Now that I have chosen this major, I am motivated to become a senior engineer!</font></p>
@@ -46,7 +46,7 @@
 
 ## 🏢 Study & Work Experience
 
-<img align="right" width="250" src="./assets/hi.gif" />
+<img align="right" width="200" src="./assets/man_run.png" />
 
 - [Shenzhen University of Technology](https://www.sztu.edu.cn/) &emsp; 📌 Enrolled from September 17, 2020 to present
 
