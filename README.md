@@ -139,6 +139,15 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,mongodb,idea,git" alt="编程工具图标"/><br>
 
+  <!-- gif -->
+  <img height="100" width="100" src="./assets/html.webp">
+  <img height="100" width="100" src="./assets/cssgif.webp">
+  <img height="100" width="100" src="./assets/vscode.webp">
+  <img height="100" width="100" src="./assets/react.webp">
+  <img height="95" width="95" src="./assets/vue.webp">
+  <img height="100" width="100" src="./assets/python.webp">
+  <img height="100" width="100" src="./assets/js.webp"><br>
+
   <!-- svg -->
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -150,16 +159,7 @@
   <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
-
-  <!-- gif -->
-  <img height="100" width="100" src="./assets/html.webp">
-  <img height="100" width="100" src="./assets/cssgif.webp">
-  <img height="100" width="100" src="./assets/vscode.webp">
-  <img height="100" width="100" src="./assets/react.webp">
-  <img height="95" width="95" src="./assets/vue.webp">
-  <img height="100" width="100" src="./assets/python.webp">
-  <img height="100" width="100" src="./assets/js.webp">
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 </div>
 
 <div align="center">
