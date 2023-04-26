@@ -81,7 +81,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat" alt="Spring Badge"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" alt="TypeScript Badge"/>
 </div>
-
+<br>
 <div align="center">
 
 🧠 Plan deep learning
@@ -90,7 +90,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript Badge"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat" alt="Android Badge"/>
 </div>
-
+<br>
 <div align="center">
 
 🧰 Commonly used tools
