@@ -162,6 +162,6 @@
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 </div>
 
-<div align="center">
+<div align="center" height="600" width="3000">
   <img src="./assets/icon.png" />
 </div>
