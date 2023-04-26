@@ -15,7 +15,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Welcome to my github homepage!;Aloof wishes you a happy life today!&center=true&size=22" alt="动态打字效果"/>
   </div>
   <div align="center">
-  <img src="./assets/coding.gif" alt="敲代码动图"/><br>
+  <img src="./assets/avento.gif" alt="敲代码&冲浪动图"/><br>
   </div>
   <div align="center">
   <img src="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" height="200px" alt="贪吃蛇代码贡献图"/>
