@@ -20,17 +20,18 @@
   <div align="center">
   <img src="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" height="200px" alt="贪吃蛇代码贡献图"/>
   </div>
-  <div> 
+  <!-- <div> 
   <img src="./profile-snake-contrib/profile-night-rainbow.svg" alt="profile-3d-contrib 3D贡献图"/>
-  </div>
+  </div> -->
 </div>
 
-#  🙋 Hello
+# 🙋 Hello
 
 <table>
 <tr><td>
 
 ## 🤺 About Me <!--关于我-->
+
 <img align="right" width="200" src="./assets/man_run.png" />
 <p>&emsp;&emsp;<font size=3.5>Hi everyone, I'm Aloof.</font></p>
 <p>&emsp;&emsp;<font size=3.5>Currently studying at Shenzhen University of Technology, majoring in computer science and technology.</font></p>
@@ -40,8 +41,6 @@
 
 </td></tr>
 
-
-
 <tr>
 <td>
 
@@ -49,7 +48,7 @@
 
 <img align="right" width="250" src="./assets/hi.gif" />
 
-- [Shenzhen University of Technology](https://www.sztu.edu.cn/) &emsp; 📌 Enrolled from September 17, 2020 to present 
+- [Shenzhen University of Technology](https://www.sztu.edu.cn/) &emsp; 📌 Enrolled from September 17, 2020 to present
 
   - College: [School of Big Data and Internet](https://bdi.sztu.edu.cn/)
   - Major: Computer Science and Technology
@@ -70,8 +69,6 @@
 
 </td></tr> -->
 <table>
-
-
 
 <div align="center">
   <img src="./assets/man.png" alt="举重动图" width="250" height="250" />
@@ -115,7 +112,8 @@
 </div>
 
 <!-- Wakatime Graph-->
-##  👏 My Coding Activity being counted by WakaTime
+
+## 👏 My Coding Activity being counted by WakaTime
 
 <table>
   <tr>
@@ -134,11 +132,9 @@
   </tr>
 </table>
 
-
 <div align="center">
   <img width="36%" src="./assets/githubgif.gif" />
 </div>
-
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,mongodb,idea,git" alt="编程工具图标"/><br>
