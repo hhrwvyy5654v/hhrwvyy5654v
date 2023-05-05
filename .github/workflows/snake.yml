@@ -11,10 +11,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
     steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v2.2.1
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -29,3 +28,4 @@ jobs:
           keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
