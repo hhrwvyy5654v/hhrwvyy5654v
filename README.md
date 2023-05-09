@@ -18,11 +18,8 @@
   <img src="./assets/avento.gif" alt="敲代码&冲浪动图"/><br>
   </div>
   <div align="center">
-  <img src="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" height="200px" alt="贪吃蛇代码贡献图"/>
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=hhrwvyy5654v&labels=true" height="200px" alt="贪吃蛇代码贡献图"/>
   </div>
-  <!-- <div> 
-  <img src="./profile-snake-contrib/profile-night-rainbow.svg" alt="profile-3d-contrib 3D贡献图"/>
-  </div> -->
 </div>
 
 # 🙋 Hello
@@ -114,9 +111,10 @@
 
 <!-- Wakatime Graph-->
 
-## 👏 My Coding Activity being counted by WakaTime
+## 👏 My Skills Chart 
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hhrwvyy5654v" width="auto"></img>
 
-<table>
+<!-- <table>
   <tr>
     <div align="center">
       <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/6ab537eb-0c82-449f-9258-63d581971450.svg" width="400" alt="Languages"/> &ensp; 
@@ -131,7 +129,7 @@
       <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/21099ae5-83b1-497d-a0fe-a7ebd5e01a88.svg" width="400" alt="Operating Systems"/>
     </div>   
   </tr>
-</table>
+</table> -->
 
 <div align="center">
   <img width="36%" src="./assets/githubgif.gif" />
@@ -166,6 +164,7 @@
 <div align="center">
   <img src="./assets/icon.png" />
 </div>
+
 
 <!-- ### Github statistics
 
