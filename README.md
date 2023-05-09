@@ -48,10 +48,10 @@
 
 <img align="right" width="200" src="./assets/man_run.png" />
 
-- [Shenzhen University of Technology](https://www.sztu.edu.cn/) 
+- [Shenzhen University of Technology](https://www.sztu.edu.cn/)<br> 
   📌 Enrolled from September 17, 2020 to present
 
-  - College: [Big Data and Internet](https://bdi.sztu.edu.cn/)
+  - College: [Big Data and Internet](https://bdi.sztu.edu.cn/)<br>
   - Major: Computer Science and Technology 
   <br>
 - [Shenzhen Urban Public Safety Technology Research Institute](https://www.szsti.org/#/)
