@@ -12,19 +12,18 @@
 -->
 <div align="center">
   <div align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Welcome to my github homepage!;Aloof wishes you a happy life today!&center=true&size=24" alt="动态打字效果"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Welcome to my github homepage!;Aloof wishe you a happy life today!&center=true&size=24" alt="动态打字效果"/>
   </div>
   <div align="center" width="500" height="375">
   <img src="./assets/avento.gif" alt="敲代码&冲浪动图"/><br>
   </div>
   <div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhrwvyy5654v/hhrwvyy5654v/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hhrwvyy5654v/hhrwvyy5654v/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hhrwvyy5654v/hhrwvyy5654v/output/github-contribution-grid-snake.svg">
-</picture>
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhrwvyy5654v/hhrwvyy5654v/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hhrwvyy5654v/hhrwvyy5654v/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hhrwvyy5654v/hhrwvyy5654v/output/github-contribution-grid-snake.svg">
+    </picture>
   </div>
-  <img alt="GitHub-Profile-3D-Contrib" src="profile-3d-contrib/profile-night-rainbow.svg"/>
 </div>
 
 
@@ -64,13 +63,7 @@
 </td>
 </tr>
 
-<!-- <tr><td>
 
-## 🤾‍♂️ Recent life
-
-<img align="right" width="250" src="./assets/hi.gif" />
-
-</td></tr> -->
 <table>
 
 <div align="center">
@@ -115,15 +108,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=hhrwvyy5654v&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" height="125px" alt="GitHub 奖杯🏆"/>
 </div>
 
-<!-- Wakatime Graph-->
+<img alt="GitHub-Profile-3D-Contrib" src="profile-3d-contrib/profile-night-rainbow.svg"/>
+
 
 ## 👏 My Skills Chart
 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hhrwvyy5654v" width="auto"></img>
 
-<div align="center">
-  <img width="36%" src="./assets/githubgif.gif" />
-</div>
+<div align="center"><img width="36%" src="./assets/githubgif.gif" /></div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,mongodb,idea,git" alt="编程工具图标"/><br>
@@ -175,3 +167,11 @@
     </div>
   </tr>
 </table> -->
+
+<!-- <tr><td>
+
+## 🤾‍♂️ Recent life
+
+<img align="right" width="250" src="./assets/hi.gif" />
+
+</td></tr> -->
