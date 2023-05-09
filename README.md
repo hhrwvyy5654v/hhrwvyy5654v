@@ -119,7 +119,7 @@
 
 ## 👏 My Skills Chart
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hhrwvyy5654v&bg=#2D333B" width="auto"></img>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hhrwvyy5654v" bg=#0f3c4c width="auto"></img>
 
 <!-- <table>
   <tr>
