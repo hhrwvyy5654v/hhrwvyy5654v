@@ -50,12 +50,14 @@
 
 <img align="right" width="200" src="./assets/man_run.png" />
 
-- [Shenzhen University of Technology](https://www.sztu.edu.cn/) &emsp; 📌 Enrolled from September 17, 2020 to present
+- [Shenzhen University of Technology](https://www.sztu.edu.cn/) 
+  📌 Enrolled from September 17, 2020 to present
 
   - College: [Big Data and Internet](https://bdi.sztu.edu.cn/)
   - Major: Computer Science and Technology 
   <br>
-- [Shenzhen Urban Public Safety Technology Research Institute](https://www.szsti.org/#/) &emsp; 📌 2023/02/01~2023/06/16
+- [Shenzhen Urban Public Safety Technology Research Institute](https://www.szsti.org/#/)
+  📌 2023/02/01 ~ 2023/06/16
 
   - Job: Intern at R&D Center (Academician Office)
   - work content: Participated in the project of "UAV Close-range Photogrammetry Monitoring Landslide Deformation"
