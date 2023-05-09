@@ -6,9 +6,7 @@
  * @LastEditors: Please set LastEditor
  * @LastEditTime: 2023-04-21 14:25:08
  * @FilePath: \Aloof\README.md
- * @Descripttion:
- * reference article: GitHub 配置文件自述文件
- * https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5
+ * @Descripttion: GitHub 配置文件自述文件
 -->
 <div align="center">
   <div align="center">
@@ -149,10 +147,6 @@
 <div align="center">
   <img src="./assets/icon.png" />
 </div>
-
-<!-- ### Github statistics
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhrwvyy5654v&layout=compact&theme=calm&role=OWNER,COLLABORATOR" height="180px"/> <img src="https://github-readme-stats.vercel.app/api?username=hhrwvyy5654v&count_private=true&show_icons=true&theme=calm&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="180px"/> -->
 
 <!-- <table>
   <tr>
