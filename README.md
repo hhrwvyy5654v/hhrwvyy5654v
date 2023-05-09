@@ -12,7 +12,7 @@
 -->
 <div align="center">
   <div align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Welcome to my github homepage!;Aloof wishe you a happy life today!&center=true&size=24" alt="动态打字效果"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Welcome to my github homepage!;Aloof wish you a happy life today!&center=true&size=24" alt="动态打字效果"/>
   </div>
   <div align="center" width="500" height="375">
   <img src="./assets/avento.gif" alt="敲代码&冲浪动图"/><br>
@@ -32,13 +32,13 @@
 <table>
 <tr><td>
 
-## 🤺 About Me <!--关于我-->
+## 🤺 About Me
 
 <img align="right" width="250" src="./assets/hi.gif" />
 <p>&emsp;&emsp;<font size=3.5>Hi everyone, I'm Aloof.</font></p>
 <p>&emsp;&emsp;<font size=3.5>Currently studying at Shenzhen University of Technology, majoring in computer science and technology.</font></p>
 <p>&emsp;&emsp;<font size=3.5>Now that I have chosen this major, I am motivated to become a senior engineer!</font></p>
-<p>&emsp;&emsp;<font size=3.5>After trying many directions, I currently want to be a Java and Go language developer.</font></p>
+<p>&emsp;&emsp;<font size=3.5>After trying many directions, I currently want to be a full stack developer.</font></p>
 <p>&emsp;&emsp;<font size=3.5>My motto is to follow the trend and avoid disadvantages.</font></p>
 
 </td></tr>
@@ -46,15 +46,15 @@
 <tr>
 <td>
 
-## 🏢 Study & Work Experience
+## 🏢 Study & Work
 
 <img align="right" width="200" src="./assets/man_run.png" />
 
 - [Shenzhen University of Technology](https://www.sztu.edu.cn/) &emsp; 📌 Enrolled from September 17, 2020 to present
 
-  - College: [School of Big Data and Internet](https://bdi.sztu.edu.cn/)
-  - Major: Computer Science and Technology
-
+  - College: [Big Data and Internet](https://bdi.sztu.edu.cn/)
+  - Major: Computer Science and Technology 
+  <br>
 - [Shenzhen Urban Public Safety Technology Research Institute](https://www.szsti.org/#/) &emsp; 📌 2023/02/01~2023/06/16
 
   - Job: Intern at R&D Center (Academician Office)
@@ -101,15 +101,16 @@
 <br>
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hhrwvyy5654v&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" height="125px" alt="GitHub 奖杯🏆"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hhrwvyy5654v&bg_color=transparent&color=7fa1f7&line=f4a460&point=fa8072&area=true&hide_border=true" alt="GitHub 活动图"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hhrwvyy5654v&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" height="125px" alt="GitHub 奖杯🏆"/>
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub-Profile-3D-Contrib"/>
 </div>
-
-<img alt="GitHub-Profile-3D-Contrib" src="profile-3d-contrib/profile-night-rainbow.svg"/>
-
 
 ## 👏 My Skills Chart
 
