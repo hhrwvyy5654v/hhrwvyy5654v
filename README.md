@@ -119,24 +119,7 @@
 
 ## 👏 My Skills Chart
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hhrwvyy5654v" bg=#0f3c4c width="auto"></img>
-
-<!-- <table>
-  <tr>
-    <div align="center">
-      <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/6ab537eb-0c82-449f-9258-63d581971450.svg" width="400" alt="Languages"/> &ensp;
-      <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/f98103f4-cf5f-4bb1-963f-6f951c6a1a4c.svg" width="400"
-      alt="Editors"/>
-    </div>
-  </tr>
-  <br>
-  <tr>
-    <div align="center">
-      <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/289eea3d-151c-461f-bd59-5a49cfcdb629.svg" width="400" alt="Categories"/> &ensp;
-      <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/21099ae5-83b1-497d-a0fe-a7ebd5e01a88.svg" width="400" alt="Operating Systems"/>
-    </div>
-  </tr>
-</table> -->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hhrwvyy5654v" width="auto"></img>
 
 <div align="center">
   <img width="36%" src="./assets/githubgif.gif" />
@@ -175,3 +158,20 @@
 <!-- ### Github statistics
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhrwvyy5654v&layout=compact&theme=calm&role=OWNER,COLLABORATOR" height="180px"/> <img src="https://github-readme-stats.vercel.app/api?username=hhrwvyy5654v&count_private=true&show_icons=true&theme=calm&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="180px"/> -->
+
+<!-- <table>
+  <tr>
+    <div align="center">
+      <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/6ab537eb-0c82-449f-9258-63d581971450.svg" width="400" alt="Languages"/> &ensp;
+      <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/f98103f4-cf5f-4bb1-963f-6f951c6a1a4c.svg" width="400"
+      alt="Editors"/>
+    </div>
+  </tr>
+  <br>
+  <tr>
+    <div align="center">
+      <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/289eea3d-151c-461f-bd59-5a49cfcdb629.svg" width="400" alt="Categories"/> &ensp;
+      <img src="https://wakatime.com/share/@c8a5f09b-8db6-43bf-b20a-998935627bf3/21099ae5-83b1-497d-a0fe-a7ebd5e01a88.svg" width="400" alt="Operating Systems"/>
+    </div>
+  </tr>
+</table> -->
