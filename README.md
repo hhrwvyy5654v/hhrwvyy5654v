@@ -51,10 +51,10 @@
 - [Shenzhen University of Technology](https://www.sztu.edu.cn/)<br> 
   📌 Enrolled from September 17, 2020 to present
 
-  - College: [Big Data and Internet](https://bdi.sztu.edu.cn/)<br>
+  - College: [Big Data and Internet](https://bdi.sztu.edu.cn/)
   - Major: Computer Science and Technology 
   <br>
-- [Shenzhen Urban Public Safety Technology Research Institute](https://www.szsti.org/#/)
+- [Shenzhen Urban Public Safety Technology Research Institute](https://www.szsti.org/#/)<br>
   📌 2023/02/01 ~ 2023/06/16
 
   - Job: Intern at R&D Center (Academician Office)
