@@ -44,7 +44,7 @@
 <tr>
 <td>
 
-## 🏢 Study & Work
+## 🏢 Study & Work Experience
 
 <img align="right" width="200" src="./assets/man_run.png" />
 
