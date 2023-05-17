@@ -58,7 +58,7 @@
   📌 2023/02/01 ~ 2023/06/16
 
   - Job: Intern at R&D Center (Academician Office)
-  - work content: Participated in the project of "UAV Close-range Photogrammetry Monitoring Landslide Deformation"
+  - work content: Participated in the project of [UAV Close-range Photogrammetry Monitoring Landslide Deformation](https://github.com/hhrwvyy5654v/UAV-Close-Range-Photogrammetry-To-Monitor-Landslide-Deformation)
 
 </td>
 </tr>
