@@ -3,9 +3,9 @@
  * @Author: HuangRongQuan
  * @version:
  * @Date: 2023-04-14 10:38:23
- * @LastEditors: Please set LastEditor
- * @LastEditTime: 2023-04-21 14:25:08
- * @FilePath: \Aloof\README.md
+ * @LastEditors: hhrwvyy5654v huang_rongquan@outlook.com
+ * @LastEditTime: 2023-05-23 10:16:52
+ * @FilePath: \README.md
  * @Descripttion: GitHub 配置文件自述文件
 -->
 <div align="center">
@@ -23,7 +23,6 @@
     </picture>
   </div>
 </div>
-
 
 # 🙋 Hello
 
@@ -48,12 +47,13 @@
 
 <img align="right" width="200" src="./assets/man_run.png" />
 
-- [Shenzhen University of Technology](https://www.sztu.edu.cn/)<br> 
+- [Shenzhen University of Technology](https://www.sztu.edu.cn/)<br>
   📌 Enrolled from September 17, 2020 to present
 
   - College: [Big Data and Internet](https://bdi.sztu.edu.cn/)
-  - Major: Computer Science and Technology 
-  <br>
+  - Major: Computer Science and Technology
+    <br>
+
 - [Shenzhen Urban Public Safety Technology Research Institute](https://www.szsti.org/#/)<br>
   📌 2023/02/01 ~ 2023/06/16
 
@@ -62,7 +62,6 @@
 
 </td>
 </tr>
-
 
 <table>
 
@@ -105,7 +104,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hhrwvyy5654v&bg_color=transparent&color=7fa1f7&line=f4a460&point=fa8072&area=true&hide_border=true" alt="GitHub 活动图"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hhrwvyy5654v&theme=github-compact" alt="Aloof's github activity graph"/>
 </div>
 
 <div align="center">
