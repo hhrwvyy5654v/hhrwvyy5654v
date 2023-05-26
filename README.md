@@ -103,9 +103,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=hhrwvyy5654v&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" height="125px" alt="GitHub 奖杯🏆"/>
 </div>
 
+<!-- 
 <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hhrwvyy5654v&theme=github-compact" alt="Aloof's github activity graph"/>
-</div>
+</div> 
+-->
 
 <div align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub-Profile-3D-Contrib"/>
