@@ -4,7 +4,7 @@
  * @Author: hhrwvyy5654v huang_rongquan@outlook.com
  * @Date: 2023-04-14 10:38:23
  * @LastEditors: hhrwvyy5654v huang_rongquan@outlook.com
- * @LastEditTime: 2023-06-08 14:14:51
+ * @LastEditTime: 2023-06-15 23:01:44
  * Copyright (c) 2023 by hhrwvyy5654v , All Rights Reserved.
 -->
 
@@ -58,7 +58,7 @@
   📌 2023/02/01 ~ 2023/06/16
 
   - Job: Intern at R&D Center (Academician Office)
-  - work content: Participated in the project of [UAV Close-range Photogrammetry Monitoring Landslide Deformation](https://github.com/hhrwvyy5654v/UAV-Close-Range-Photogrammetry-To-Monitor-Landslide-Deformation)
+  - work content: Participated in the project of [3D-measurement](https://github.com/hhrwvyy5654v/3D-measurement)
 
 </td>
 </tr>
